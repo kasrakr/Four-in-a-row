@@ -1,2 +1,2 @@
 # Four-in-a-row
-simple four in a row game with HTML &amp; JS
+simple four in a row game with HTML &amp; JS(jQuery) & CSS
