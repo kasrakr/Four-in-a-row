@@ -1,7 +1,7 @@
 var player1 = prompt(
   "Player number one, please enter your name(You will be Blue)",
 );
-var player1Color = "#b2bb02";
+var player1Color = "#0044ff";
 var player2 = prompt(
   "Player number two, please enter your name(You will be Red)",
 );
